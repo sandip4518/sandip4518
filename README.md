@@ -58,9 +58,9 @@
 
 <h2>💬 Connect with Me</h2>
 <ul>
-<li><strong>GitHub:</strong> <a href="https://github.com/Sandy">github.com/Sandy</a></li>
-<li><strong>LinkedIn:</strong> <a href="https://linkedin.com/in/sandy">linkedin.com/in/sandy</a></li>
-<li><strong>Email:</strong> sandy@example.com</li>
+<li><strong>GitHub:</strong> <a href="https://github.com/sandip4518">github.com/Sandy</a></li>
+<li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/sandip-yedage/">linkedin.com/in/sandy</a></li>
+<li><strong>Email:</strong> sandipyedage2@gmail.com</li>
 </ul>
 
 <p>Let's innovate and build amazing things together! 🌟</p>
